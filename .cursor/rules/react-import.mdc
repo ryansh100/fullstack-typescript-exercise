@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+When importing from the 'react' npm package, you should use `import * as React from 'react'`.
+
+React hooks should be in the format of `React.useState`, `React.useEffect`, `React.useRef`
